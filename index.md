@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+1234 Kaedon Soule
 
 [Link to another page](./another-page.html).
 
